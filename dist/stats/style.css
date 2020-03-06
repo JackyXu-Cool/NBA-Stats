@@ -1,0 +1,16 @@
+.header-row {
+    background: url("../assets/pics/stats_background.jpg") center no-repeat;
+    background-size: 100% auto;
+}
+
+.team-info {
+   max-width: 800px;
+}
+
+.team-info input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: grey 1px solid;
+}
+
