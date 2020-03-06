@@ -6,3 +6,8 @@ This is a web applications for users to easily find NBA history or current stats
 - [x] Single player stats
 - [x] Players Comparision
 
+
+### Special Contributor
+balldontile API (https://www.balldontlie.io/#introduction)
+NBA Headshots API (https://nba-players.herokuapp.com/)
+
