@@ -1,11 +1,11 @@
-.header-row {
+/* .header-row {
     background: url("../assets/pics/player_background.jpg") center no-repeat;
     background-size: 100% auto;
-}
+} */
 
 .card {
     margin: auto;
-    width: 700px;
+    max-width: 80%;
     border: none !important;
 }
 
