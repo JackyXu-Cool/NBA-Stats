@@ -12,16 +12,26 @@
     <link rel="icon" type="image/x-icon" href="./assets/pics/icon.ico"/>
 </head>
 <body>
-    <div class="container">
+    <div class="container-fluid bg-dark vh-100">
+        <p class="display-4 pt-3 text-center text-light">NBA Stats Summary</p>
+        <p class="my-3 text-center text-light">---- A web app for searching any NBA stats you want</p>
+
         <!-- Three buttons to start diffenrent functions -->
-        <div class="function row justify-content-center align-center">
-            <a class="btn btn-outline-success btn-lg m-3 team-stats" role="button" href="./stats/index.html">
-            Team History Data</a>
-            <a class="btn btn-outline-primary btn-lg m-3 single-player" role="button" href="./player/index.html">
-            Single Player Stats</a>
-            <a class="btn btn-outline-success btn-lg m-3 player-compare" role="button" href="./playercompare/index.html">
-            Player Compare</a>
+        <div class="function my-4 row">
+            <div class="col-lg-4 my-3 text-center align-self-center">
+                <a class="btn btn-outline-success btn-lg team-stats" role="button" href="./stats/index.html">
+                Team History Data</a>
+            </div>
+            <div class="col-lg-4 my-3 text-center align-self-center">
+                <a class="btn btn-outline-primary btn-lg single-player" role="button" href="./player/index.html">
+                Single Player Stats</a>
+            </div>
+            <div class="col-lg-4 my-3 text-center align-self-center">
+                <a class="btn btn-outline-danger btn-lg player-compare" role="button" href="./playercompare/index.html">
+                Player Compare</a>
+            </div>
         </div>
+        <div class="mt-5 pt-4 text-center text-light">Designed by Junqi Xu &copy; 2020 March</div>
     </div>
 </body>
 </html>

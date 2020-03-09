@@ -1,3 +1,9 @@
+@media (max-width: 991px) {
+    .header-row {
+        background-size: 100% 100% !important;
+    }
+}
+
 .header-row {
     background: url("../assets/pics/stats_background.jpg") center no-repeat;
     background-size: 100% auto;
