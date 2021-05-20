@@ -2,7 +2,6 @@
 This is a web applications for users to easily find NBA history or current stats (from 2011 to Current)
 
 <img src="http://www.xujunqi.net/assets/NBA-Stats-2.png" width="550" height="200"/>
-<img src="http://www.xujunqi.net/assets/NBA-Stats.png" width="200" height="250"/>
 
 ## Supported Feature
 - [x] Search for team stats
